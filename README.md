@@ -4,6 +4,11 @@
 
 Brute forcing interpolation is an extremely advanced mathematical formula used by the leading anti-cheat developers in Minecraft and other gaming communities to detect very miniscule differences in legitness.
 
+
+^^^ 
+
+I will now use brute force interpolation in artemis to disable the anticheats.
+
 Below is an image of what it looks like to bruteforce interpolation.
 
 ![interpolation_bruteforced](https://user-images.githubusercontent.com/61439310/122414747-0b7e5100-cf90-11eb-8076-fcc0bc12cf08.png)
