@@ -13,6 +13,10 @@ Below is an image of what it looks like to bruteforce interpolation.
 
 ![interpolation_bruteforced](https://user-images.githubusercontent.com/61439310/122414747-0b7e5100-cf90-11eb-8076-fcc0bc12cf08.png)
 
+Below is an image of what it looks like to not bruteforce interpolation.
+
+![interpolation_bruteforced](https://cdn.discordapp.com/attachments/752330613289386144/889982604093300747/image0.png)
+
 ## How does it work?
 
 Brute forcing interpolation does advanced math to fully predict with 100% accuracy a players position on the players screen.
